@@ -1,4 +1,4 @@
-# Linear-Regression-Implementation
+# linear-regression-implementation
 Implementation of simple and multiple linear regression analysis
 
 This was a program I wrote as part of my junior project (high school). I chose to learn more about the implementation of linear regression
